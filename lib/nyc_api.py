@@ -16,7 +16,7 @@ class GetPrograms:
       return programs
 
 #ALLPROGRAMS ARE PRINTED ON TERMINAL
-# programs = GetPrograms().get_programs()
-#print(programs)
+programs = GetPrograms().get_programs()
+print(programs)
   
 #previous URL for this lb not accessible.
